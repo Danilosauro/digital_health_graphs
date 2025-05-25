@@ -20,3 +20,5 @@ Este projeto tem como objetivo criar um **dashboard automático e interativo** u
 
 
 
+## Para rodar o projeto use o seguinte comando no terminal:  
+  streamlit run main.py 
